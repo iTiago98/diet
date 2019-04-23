@@ -1,0 +1,7 @@
+Genero=MUJER
+Masa=65	
+Altura=165
+Edad=20
+Ejercicio=0 0 0 1 0
+Trabajo=5 0 0
+Objetivo=GANAR_PESO

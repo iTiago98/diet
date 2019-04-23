@@ -1,0 +1,7 @@
+Genero=[HOMBRE|MUJER]
+Masa=[kg]
+Altura=[cms]
+Edad=[anyos]
+Ejercicio=[imb ib im ia ima]
+Trabajo=[ib im ia]
+Objetivo=[PERDER_PESO|GANAR_PESO]

@@ -1,0 +1,7 @@
+Genero=HOMBRE
+Masa=83
+Altura=180
+Edad=20
+Ejercicio=0 0 1 0 0
+Trabajo=5 0 0
+Objetivo=PERDER_PESO
