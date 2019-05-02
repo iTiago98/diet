@@ -35,6 +35,14 @@ public interface MainView
 
   public void setProteins(String s);
 
+  public void setCaloriesLabel(String s);
+
+  public void setFatsLabel(String s);
+
+  public void setCarbohydratesLabel(String s);
+
+  public void setProteinsLabel(String s);
+
   public void setIgredient(String s);
 
   public void refreshIngredientList(Ingredient i);
