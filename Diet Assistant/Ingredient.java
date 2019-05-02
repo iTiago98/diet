@@ -141,4 +141,9 @@ public class Ingredient
 	{
 		return proteins;
 	}
+
+	public String toString()
+	{
+		return "["+this.name+" -> "+this.grames+", "+this.calories+", "+this.fats+", "+this.carbohydrates+", "+this.proteins+"]";
+	}
 }
