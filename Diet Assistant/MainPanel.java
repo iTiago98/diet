@@ -22,15 +22,16 @@ public class MainPanel extends JPanel implements MainView
   private JButton button_calculateProteins;
   private JButton button_calculateGrames;
   private JButton button_refresh;
-  private JButton button_clear
+  private JButton button_clear;
 
   public MainPanel()
   {
+    /*
   	setLayout(new BorderLayout(5, 5));
 
   	// Current ingredient panel
   	JPanel panel_ingredientSelector = new JPanel();
-	panel_ingredientSelector.setLayout(new FlowLayout(FlowLayout.CENTER, 5, 5));
+	  panel_ingredientSelector.setLayout(new FlowLayout(FlowLayout.CENTER, 5, 5));
 	  	textField_ingredient = new JTextField(20);
 	  	button_search = new JButton("Search");
 	  	panel_ingredientSelector.add(textField_ingredient);
@@ -43,6 +44,6 @@ public class MainPanel extends JPanel implements MainView
   		panel_currentIngredientNoGrames.setLayout(new GridLayout(2, 2, 2, 2));
   			JPanel panel_currentINgredientNoGramesCalories = new JPanel();
   			panel_currentIngredientNoGramesCalories.setLayout(new BorderLayout(1, 1));
-
+  */
   }
 }
